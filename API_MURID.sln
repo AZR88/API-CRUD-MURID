@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_MURID", "API_MURID\API_MURID.csproj", "{5AF4FDDD-7BA4-42F3-89E4-BD5FF47B4998}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AF4FDDD-7BA4-42F3-89E4-BD5FF47B4998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AF4FDDD-7BA4-42F3-89E4-BD5FF47B4998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AF4FDDD-7BA4-42F3-89E4-BD5FF47B4998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AF4FDDD-7BA4-42F3-89E4-BD5FF47B4998}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C9D2F69-BA67-406E-B3E2-6A9BAA771AA7}
+	EndGlobalSection
+EndGlobal
